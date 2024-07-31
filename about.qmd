@@ -1,0 +1,17 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/shim.ka_/
+    # (additional links excluded for brevity)
+---
+
+Welcome to our website, dedicated to promoting projects that embody the spirit of #SpreadLove. Our mission is to foster happiness and well-being, both individually and collectively. We encourage you to start with your own well-being, then support your community, and ultimately care for the next generation.💕
+
+Here, we primarily focus on three key areas: mental health, equal access to quality education for all, and environmental sustainability. Join us on this journey to create a happier, healthier world for everyone.💖
+
+#SpreadLove by shimurk
